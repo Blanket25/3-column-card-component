@@ -12,7 +12,6 @@ This is a solution to the [3-column preview card component challenge on Frontend
   - [Built with](#built-with)
   - [Continued development](#continued-development)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -30,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [3-column-card-component](https://blanket25.github.io/3-column-card-component/)
 
 ## My process
 
